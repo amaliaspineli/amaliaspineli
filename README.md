@@ -40,41 +40,29 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/amaliaspineli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaliaspineli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaliaspineli&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaliaspineli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaliaspineli&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800&hide_border=true"/>
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Mobile**
-
-<img alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg"/>
-<img alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-
-**Frontend Web**
-
-<img alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
-<img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-<img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-<img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-
-**Backend & Database**
-
-<img alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
-<img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-
-**Ferramentas / Tools**
-
-<img alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><sub><b>Android</b></sub><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="40"/></td>
+    <td align="center" width="90"><sub><b>Flutter</b></sub><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40"/></td>
+    <td align="center" width="90"><sub><b>Angular</b></sub><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40"/></td>
+    <td align="center" width="90"><sub><b>JavaScript</b></sub><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40"/></td>
+    <td align="center" width="90"><sub><b>TypeScript</b></sub><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="40"/></td>
+    <td align="center" width="90"><sub><b>HTML5</b></sub><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/></td>
+    <td align="center" width="90"><sub><b>CSS3</b></sub><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/></td>
+    <td align="center" width="90"><sub><b>Firebase</b></sub><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40"/></td>
+    <td align="center" width="90"><sub><b>MySQL</b></sub><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40"/></td>
+    <td align="center" width="90"><sub><b>Postman</b></sub><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40"/></td>
+  </tr>
+</table>
 
 ---
 
